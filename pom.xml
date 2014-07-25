@@ -21,7 +21,7 @@
   <parent>
     <groupId>org.kuali.pom</groupId>
     <artifactId>kuali-common</artifactId>
-    <version>3.3.44</version>
+    <version>4.2.0</version>
   </parent>
   <groupId>org.kuali.rice</groupId>
   <artifactId>rice</artifactId>
@@ -2536,9 +2536,10 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:${project.scm.vendor}:git@github.com:ewestfal/rice-svn2git-test.git</connection>
-    <developerConnection>scm:${project.scm.vendor}:git@github.com:ewestfal/rice-svn2git-test.git</developerConnection>
+    <connection>scm:git:git@github.com:ewestfal/rice-svn2git-test.git</connection>
+    <developerConnection>scm:git:git@github.com:ewestfal/rice-svn2git-test.git</developerConnection>
     <url>https://github.com/ewestfal/rice-svn2git-test/tree/master</url>
+    <tag>master</tag>
   </scm>
 
 </project>

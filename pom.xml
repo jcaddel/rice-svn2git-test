@@ -2536,9 +2536,9 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:ewestfal/rice-svn2git-test.git</connection>
-    <developerConnection>scm:git:git@github.com:ewestfal/rice-svn2git-test.git</developerConnection>
-    <url>https://github.com/ewestfal/rice-svn2git-test/tree/master</url>
+    <developerConnection>scm:git:git@github.com:jcaddel/rice-svn2git-test.git</developerConnection>
+    <connection>scm:git:git@github.com:jcaddel/rice-svn2git-test.git</connection>
+    <url>https://github.com/jcaddel/rice-svn2git-test/tree/${project.scm.tag}</url>
     <tag>master</tag>
   </scm>
 

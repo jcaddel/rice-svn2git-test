@@ -28,7 +28,7 @@
   <packaging>pom</packaging>
   <name>Rice</name>
   <inceptionYear>2005</inceptionYear>
-  <version>2.5.0-git1-SNAPSHOT</version>
+  <version>2.5.0-git1-20140730-f400819ab3</version>
   <description>
     The Kuali Rice effort provides an enterprise class middleware suite of integrated products that allows
     both Kuali and non-Kuali applications
@@ -2539,7 +2539,7 @@
     <developerConnection>scm:git:git@github.com:jcaddel/rice-svn2git-test.git</developerConnection>
     <connection>scm:git:git@github.com:jcaddel/rice-svn2git-test.git</connection>
     <url>https://github.com/jcaddel/rice-svn2git-test/tree/${project.scm.tag}</url>
-    <tag>master</tag>
+    <tag>builds-rice-2.5.0-git1-20140730-f400819ab3</tag>
   </scm>
 
 </project>
